@@ -14,7 +14,6 @@ classes
 
 #Command line
 build.xml
-proguard-project.txt
 
 #Mac specific
 .DS_Store
